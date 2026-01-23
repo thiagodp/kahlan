@@ -2,6 +2,10 @@
 
 ## Last changes
 
+## 6.1.0 (2026-01-24)
+
+  * **Enhancement:** Add PHP 8.5 support
+
 ## 6.0.2 (2025-02-22)
 
   * **Bugfix:** Fix run on windows: directory separator, ✓ and ✖ char
